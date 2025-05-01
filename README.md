@@ -1,8 +1,9 @@
 # Warm up - Hola mundo
 
 
-![[Pasted image 20250430233512.png]]
-![[Pasted image 20250430233523.png]]
+![Captura de pantalla 2025-04-30 233521](https://github.com/user-attachments/assets/576112dc-e3f9-457c-9b6c-152af711178e)
+
+![Captura de pantalla 2025-04-30 233449](https://github.com/user-attachments/assets/6647f5de-01c9-4e3d-b105-c1d1ebfb3480)
 
 
 ## Casos de prueba para `HolaMundo` (validador de contraseñas WinForms)
